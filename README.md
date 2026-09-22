@@ -132,19 +132,21 @@ Both the bright and dark layers use the same artwork to create the reveal effect
 
 Edit the content inside `.caption` to create your own artwork title, description, or gallery information.
 
-### ◉ COLORS
+### ◉ COLORS & SPOTLIGHT
 
-Adjust the CSS variables inside `:root` to customize the paper tone, background, spotlight radius, and glow intensity.
+Adjust the CSS variables inside `:root` to customize the spotlight radius, glow intensity, paper tone, and background.
 
-```css
-:root{
+<div align="center">
+
+<pre><code>:root{
   --r-core: 90px;
   --r-edge: 360px;
   --glow-strength: 1;
   --paper: #f3efe6;
   --ink: #0a0a0a;
-}
-```
+}</code></pre>
+
+</div>
 
 </div>
 
@@ -198,7 +200,7 @@ Open `index.html` in your browser.
 
 # 🖼️ HOW IT WORKS
 
-The experience uses two versions of the same artwork:
+The experience uses two versions of the same artwork.
 
 **BRIGHT LAYER**
 
@@ -232,24 +234,4 @@ Please do not resell or redistribute the original template as your own.
 
 # 📦 PART OF THE LICODE SERIES
 
-This project is part of an ongoing series of front-end experiments exploring **design**, **code**, **interaction**, and **motion**.
-
-<a href="https://github.com/licode-cmd">
-
-<img src="https://img.shields.io/badge/EXPLORE_MORE_PROJECTS-5B0F1B?style=for-the-badge&logo=github&logoColor=F3E8D0">
-
-</a>
-
-<a href="https://www.youtube.com/@licodee">
-
-<img src="https://img.shields.io/badge/WATCH_THE_BUILD-5B0F1B?style=for-the-badge&logo=youtube&logoColor=F3E8D0">
-
-</a>
-
-<a href="https://www.tiktok.com/@nihcode">
-
-<img src="https://img.shields.io/badge/FOLLOW_THE_WORK-5B0F1B?style=for-the-badge&logo=tiktok&logoColor=F3E8D0">
-
-</a>
-
-</div>
+Th
