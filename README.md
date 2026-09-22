@@ -234,4 +234,24 @@ Please do not resell or redistribute the original template as your own.
 
 # 📦 PART OF THE LICODE SERIES
 
-Th
+This project is part of an ongoing series of front-end experiments exploring **design**, **code**, **interaction**, and **motion**.
+
+<a href="https://github.com/licode-cmd">
+
+<img src="https://img.shields.io/badge/EXPLORE_MORE_PROJECTS-5B0F1B?style=for-the-badge&logo=github&logoColor=F3E8D0">
+
+</a>
+
+<a href="https://www.youtube.com/@licodee">
+
+<img src="https://img.shields.io/badge/WATCH_THE_BUILD-5B0F1B?style=for-the-badge&logo=youtube&logoColor=F3E8D0">
+
+</a>
+
+<a href="https://www.tiktok.com/@nihcode">
+
+<img src="https://img.shields.io/badge/FOLLOW_THE_WORK-5B0F1B?style=for-the-badge&logo=tiktok&logoColor=F3E8D0">
+
+</a>
+
+</div>
