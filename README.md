@@ -24,79 +24,66 @@ Move your cursor across the frame to reveal the artwork and explore the interact
 
 # ✦ FEATURES
 
-<table>
+</div>
 
+<br>
+
+<table align="center">
 <tr>
 
-<td align="center" width="33%">
+<td align="center" width="280">
 
-### ◉
-
-**SPOTLIGHT REVEAL**
+### ◉ SPOTLIGHT REVEAL
 
 A dynamic spotlight follows the cursor, revealing the artwork beneath the dark layer.
 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="280">
 
-### ◉
-
-**LIGHT & SHADOW**
+### ◉ LIGHT & SHADOW
 
 Bright and dark artwork layers combine to create a cinematic reveal effect.
 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="280">
 
-### ◉
-
-**SMOOTH MOTION**
+### ◉ SMOOTH MOTION
 
 Cursor movement is interpolated with `requestAnimationFrame` for a fluid and natural response.
 
 </td>
 
 </tr>
-
 <tr>
 
-<td align="center" width="33%">
+<td align="center" width="280">
 
-### ◉
-
-**ATMOSPHERIC GLOW**
+### ◉ ATMOSPHERIC GLOW
 
 A soft radial glow follows the spotlight and adds depth to the composition.
 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="280">
 
-### ◉
-
-**FILM GRAIN**
+### ◉ FILM GRAIN
 
 Animated grain texture adds a subtle analog and editorial feel to the artwork.
 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="280">
 
-### ◉
-
-**RESPONSIVE**
+### ◉ RESPONSIVE
 
 The experience adapts to different screen sizes with responsive navigation and typography.
 
 </td>
 
 </tr>
-
 </table>
-
-</div>
 
 ---
 
@@ -122,15 +109,16 @@ The experience adapts to different screen sizes with responsive navigation and t
 
 Make the experience your own by replacing the artwork, text, and visual parameters.
 
-<table>
+</div>
 
+<br>
+
+<table align="center">
 <tr>
 
-<td align="center" width="33%">
+<td align="center" width="280">
 
-### ◉
-
-**ARTWORK**
+### ◉ ARTWORK
 
 Replace `foto.jpg` with your own image.
 
@@ -138,11 +126,9 @@ The same artwork is used for both the bright and dark layers to create the revea
 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="280">
 
-### ◉
-
-**TEXT & TYPE**
+### ◉ TEXT & TYPE
 
 Edit `.caption` to change the artwork title, description, and gallery information.
 
@@ -150,21 +136,16 @@ Typography can also be customized through the included Google Fonts.
 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="280">
 
-### ◉
-
-**SPOTLIGHT**
+### ◉ SPOTLIGHT
 
 Adjust the spotlight radius, glow intensity, and overall tone through the CSS variables in `:root`.
 
 </td>
 
 </tr>
-
 </table>
-
-</div>
 
 ---
 
@@ -176,11 +157,14 @@ Download the ZIP or clone the repository, extract it, place your artwork inside 
 
 No build step, no installation, and no dependencies required.
 
-<table>
+</div>
 
+<br>
+
+<table align="center">
 <tr>
 
-<td align="center" width="33%">
+<td align="center" width="280">
 
 ### 1 · DOWNLOAD
 
@@ -188,7 +172,7 @@ Download the ZIP or clone the repository.
 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="280">
 
 ### 2 · REPLACE
 
@@ -196,7 +180,7 @@ Replace `foto.jpg` with your own artwork.
 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="280">
 
 ### 3 · OPEN
 
@@ -205,10 +189,7 @@ Open `index.html` in your browser.
 </td>
 
 </tr>
-
 </table>
-
-</div>
 
 ---
 
