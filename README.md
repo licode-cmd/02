@@ -120,33 +120,49 @@ The experience adapts to different screen sizes with responsive navigation and t
 
 # 🎨 CUSTOMIZATION
 
-The artwork and text can be replaced with your own content.
+Make the experience your own by replacing the artwork, text, and visual parameters.
 
-### ◉ ARTWORK
+<table>
 
-Replace `foto.jpg` with your own image inside the project folder.
+<tr>
 
-Both the bright and dark layers use the same artwork to create the reveal effect.
+<td align="center" width="33%">
 
-### ◉ TITLE & TEXT
+### ◉
 
-Edit the content inside `.caption` to create your own artwork title, description, or gallery information.
+**ARTWORK**
 
-### ◉ COLORS & SPOTLIGHT
+Replace `foto.jpg` with your own image.
 
-Adjust the CSS variables inside `:root` to customize the spotlight radius, glow intensity, paper tone, and background.
+The same artwork is used for both the bright and dark layers to create the reveal effect.
 
-<div align="center">
+</td>
 
-<pre><code>:root{
-  --r-core: 90px;
-  --r-edge: 360px;
-  --glow-strength: 1;
-  --paper: #f3efe6;
-  --ink: #0a0a0a;
-}</code></pre>
+<td align="center" width="33%">
 
-</div>
+### ◉
+
+**TEXT & TYPE**
+
+Edit `.caption` to change the artwork title, description, and gallery information.
+
+Typography can also be customized through the included Google Fonts.
+
+</td>
+
+<td align="center" width="33%">
+
+### ◉
+
+**SPOTLIGHT**
+
+Adjust the spotlight radius, glow intensity, and overall tone through the CSS variables in `:root`.
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
